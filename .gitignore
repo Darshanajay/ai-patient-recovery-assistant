@@ -23,3 +23,6 @@ target/
 
 # OS
 .DS_Store
+
+# Uploaded patient documents
+patientRBackend/uploads/
